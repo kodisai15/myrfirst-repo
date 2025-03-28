@@ -1,0 +1,3 @@
+ssh -i "VAMSHI-KODI.pem" ec2-user@ec2-44-201-236-26.compute-1.amazonaws.com
+
+hi this is vamshi kodi 
